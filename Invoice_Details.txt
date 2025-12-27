@@ -1,0 +1,14 @@
+[
+  {
+    "invoice_id": "INV1001",
+    "vendor": "ABC Solutions",
+    "amount": 45000,
+    "description": "Software license renewal"
+  },
+  {
+    "invoice_id": "INV1002",
+    "vendor": "XYZ Traders",
+    "amount": 5000,
+    "description": "Office stationery"
+  }
+]

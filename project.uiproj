@@ -1,0 +1,6 @@
+{
+  "Name": "Invoice_Risk_Analysis_RPA",
+  "ProjectType": "Process",
+  "Description": "Invoices are received from an external system via API.\nThe bot analyses invoice risk using AI logic and stores results in database.”",
+  "MainFile": "Main.xaml"
+}
